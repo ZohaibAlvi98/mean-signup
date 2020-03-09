@@ -1,0 +1,10 @@
+{
+    "Development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/meanDB"
+    },
+    "Production": {
+        "PORT": 80,
+        "MONGODB_URI": "mongodb://xxxxxx/DB_name"
+    }
+}
